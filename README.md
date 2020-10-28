@@ -1,0 +1,2 @@
+# amazonistik
+Amazon2020
