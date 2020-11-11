@@ -2,4 +2,5 @@
 
 * install npm
 * install cypress
+* more details
 
