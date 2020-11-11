@@ -1,2 +1,5 @@
-# amazonistik
-Amazon2020
+# Proof of Concept Amazon Marketplace
+
+* install npm
+* install cypress
+
