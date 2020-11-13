@@ -1,3 +1,4 @@
 {
-    "projectId": "nnkyhr"
+    "projectId": "nnkyhr",
+    "testFiles": "**/*.feature"
   }
