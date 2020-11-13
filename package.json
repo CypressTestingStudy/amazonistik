@@ -1,0 +1,25 @@
+{
+  "name": "amazonistik",
+  "version": "1.0.0",
+  "description": "* install npm * install cypress * more details",
+  "main": "index.js",
+  "dependencies": {
+    "cosmiconfig": "^7.0.0",
+    "cypress-cucumber-preprocessor": "^4.0.0",
+    "typescript": "^4.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CypressTestingStudy/amazonistik.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CypressTestingStudy/amazonistik/issues"
+  },
+  "homepage": "https://github.com/CypressTestingStudy/amazonistik#readme"
+}
